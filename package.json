@@ -21,13 +21,15 @@
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
-    "@types/node": "^20",
+    "@types/node": "^20.19.14",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "@vitejs/plugin-react-swc": "^4.0.1",
     "eslint": "^9",
     "eslint-config-next": "15.5.2",
     "eslint-config-prettier": "^10.1.8",
     "prettier": "^3.6.2",
-    "typescript": "^5"
+    "typescript": "^5",
+    "vite": "^7.1.5"
   }
 }
